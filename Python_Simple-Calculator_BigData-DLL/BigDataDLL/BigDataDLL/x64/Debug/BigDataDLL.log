@@ -1,0 +1,26 @@
+﻿  pch.cpp
+  BigData.cpp
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(31): warning C4273: Plus: несовместимая компоновка dll
+  c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.h(20): note: см. предыдущее определение "Plus"
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(63): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(117): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(172): warning C4273: Minus: несовместимая компоновка dll
+  c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.h(28): note: см. предыдущее определение "Minus"
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(319): warning C4273: Multiply: несовместимая компоновка dll
+  c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.h(35): note: см. предыдущее определение "Multiply"
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(353): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(354): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(419): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(420): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(454): warning C4273: Divide: несовместимая компоновка dll
+  c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.h(40): note: см. предыдущее определение "Divide"
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(478): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(479): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(459): warning C4297: Divide: ожидается, что функция не будет выдавать исключения, но она это делает
+  c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(459): note: для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(576): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(577): warning C4244: +=: преобразование "__int64" в "int", возможна потеря данных
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека C:\Users\user\source\repos\BigDataDLL\x64\Debug\BigDataDLL.lib и объект C:\Users\user\source\repos\BigDataDLL\x64\Debug\BigDataDLL.exp
+  BigDataDLL.vcxproj -> C:\Users\user\source\repos\BigDataDLL\x64\Debug\BigDataDLL.dll

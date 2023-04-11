@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\user\source\repos\BigDataDLL\x64\Debug\BigDataTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="PlusTest.OnePlusOne" Duration="1" />
+    <TestDuration Test="PlusTest.Ten" Duration="1" />
+    <TestDuration Test="PlusTest.DoubleIntMax" Duration="1" />
+    <TestDuration Test="MinusTest.BasicMinus" Duration="1" />
+    <TestDuration Test="MinusTest.TwentyMinusTen" Duration="1" />
+    <TestDuration Test="MinusTest.TwoDigitToOne" Duration="1" />
+    <TestDuration Test="MinusTest.Negative" Duration="1" />
+    <TestDuration Test="PlusTest.FloatTest" Duration="1" />
+    <TestDuration Test="PlusTest.DifferentDigitNumber" Duration="1" />
+    <TestDuration Test="MultiplyTest.BasicMultiply" Duration="10" />
+    <TestDuration Test="MultiplyTest.NegativeMultiply" Duration="1" />
+    <TestDuration Test="MultiplyTest.DoubleNegativeMultiply" Duration="1" />
+    <TestDuration Test="MultiplyTest.DigitMultiply" Duration="1" />
+    <TestDuration Test="DivisionTest.BasicDivision" Duration="1" />
+    <TestDuration Test="PlusTest.Zeros" Duration="1" />
+    <TestDuration Test="DivisionTest.FirstFewer" Duration="1" />
+    <TestDuration Test="DivisionTest.FirstMuchFewer" Duration="1" />
+    <TestDuration Test="DivisionTest.ZeroDivision" Duration="62" />
+  </TestDurations>
+</GtaTestDurations>
