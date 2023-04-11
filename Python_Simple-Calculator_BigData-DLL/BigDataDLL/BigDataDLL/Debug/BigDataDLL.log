@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  BigData.cpp
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(31): warning C4273: Plus: несовместимая компоновка dll
+  c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.h(20): note: см. предыдущее определение "Plus"
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(172): warning C4273: Minus: несовместимая компоновка dll
+  c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.h(28): note: см. предыдущее определение "Minus"
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(319): warning C4273: Multiply: несовместимая компоновка dll
+  c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.h(35): note: см. предыдущее определение "Multiply"
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(373): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(375): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(439): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(441): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(454): warning C4273: Divide: несовместимая компоновка dll
+  c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.h(40): note: см. предыдущее определение "Divide"
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(520): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(459): warning C4297: Divide: ожидается, что функция не будет выдавать исключения, но она это делает
+  c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(459): note: для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+c:\users\user\source\repos\bigdatadll\bigdatadll\bigdata.cpp(618): warning C4018: <: несоответствие типов со знаком и без знака
+  dllmain.cpp
+  Создание кода...
+     Создается библиотека C:\Users\user\source\repos\BigDataDLL\Debug\BigDataDLL.lib и объект C:\Users\user\source\repos\BigDataDLL\Debug\BigDataDLL.exp
+  BigDataDLL.vcxproj -> C:\Users\user\source\repos\BigDataDLL\Debug\BigDataDLL.dll
