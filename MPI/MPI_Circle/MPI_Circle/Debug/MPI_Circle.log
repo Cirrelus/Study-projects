@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\mpi_circle\mpi_circle\source.cpp(55): warning C4129: s: неизвестная escape-последовательность
+c:\users\user\source\repos\mpi_circle\mpi_circle\source.cpp(59): warning C4129: s: неизвестная escape-последовательность
+  MPI_Circle.vcxproj -> C:\Users\user\source\repos\MPI_Circle\Debug\MPI_Circle.exe
